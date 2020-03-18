@@ -59,6 +59,7 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
  | Bert_for_summarization | [![open in Colab](https://img.shields.io/badge/open%20in-Colab-orange.svg)](https://colab.research.google.com/github/scyyy/NLP-national-image-analysis/blob/master/analysis/Bert_for_summarization.ipynb)
  | Bert_for_sentiment | [![open in Colab](https://img.shields.io/badge/open%20in-Colab-orange.svg)](https://colab.research.google.com/github/scyyy/NLP-national-image-analysis/blob/master/analysis/Bert_for_sentiment.ipynb)
 ---
+
 ## 基于达沃斯新闻文本挖掘的中国经济形象分析 ![RUC](http://pic3.58cdn.com.cn/p1/big/n_v1bl2lwtnvxhmvrj4bpima.jpg?w=30&h=22.5)
 #### 指导老师：任明
 #### 分类号：G202 G206
