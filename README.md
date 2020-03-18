@@ -61,7 +61,7 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 ---
 ### 基于达沃斯新闻文本挖掘的中国经济形象分析 
 <div align="left">
-![RUC](http://pic3.58cdn.com.cn/p1/big/n_v1bl2lwtnvxhmvrj4bpima.jpg?w=28&h=21)
+<img src="http://pic3.58cdn.com.cn/p1/big/n_v1bl2lwtnvxhmvrj4bpima.jpg" height="330" width="190" >
 </div>
 #### 指导老师：任明
 #### 分类号：G202 G206
