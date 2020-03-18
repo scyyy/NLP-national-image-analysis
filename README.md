@@ -61,7 +61,7 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 ---
 ### 基于达沃斯新闻文本挖掘的中国经济形象分析 
 
-<div align="right">
+<div align="right" display="inline">
   <img src="http://pic3.58cdn.com.cn/p1/big/n_v1bl2lwtnvxhmvrj4bpima.jpg" height="30" width="40" >
 </div>
 
