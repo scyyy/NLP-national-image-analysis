@@ -50,11 +50,11 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 * Data Cleaning
   * NLTK_Proccess
 * Analysis
-  * Word_frequency
-  * Word_Cloud
-  * LDA_topic_model
-  * Bert_for_Summarization
-  * Bert_for_Sentiment
+  * Word_frequency [![image](https://img.shields.io/badge/open in-colab-orange.svg)](https://github.com/xfhy)
+  * Word_Cloud [![image](https://img.shields.io/badge/author-xfhy-orange.svg)](https://github.com/xfhy)
+  * LDA_topic_model [![image](https://img.shields.io/badge/author-xfhy-orange.svg)](https://github.com/xfhy)
+  * Bert_for_Summarization [![image](https://img.shields.io/badge/author-xfhy-orange.svg)](https://github.com/xfhy)
+  * Bert_for_Sentiment [![image](https://img.shields.io/badge/author-xfhy-orange.svg)](https://github.com/xfhy)
 ---
 ### 基于达沃斯新闻文本挖掘的中国经济形象分析
 #### 指导老师：任明
