@@ -43,12 +43,12 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 
 ### Code menu
 * Spider
-  * Guardian
-  * New York Times
-  * Financial Times
-  * WallStreet Journal
+  * Guardian.py
+  * New_York_Times.py
+  * Financial_Times.py
+  * WallStreet_Journal.py
 * Data Cleaning
-  * NLTK_Proccess
+  * NLTK_Proccess.py
 * Analysis
 
  ｜Code name | Colab URL |
