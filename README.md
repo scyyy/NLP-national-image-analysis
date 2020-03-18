@@ -39,7 +39,7 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 | tqdm | 4.28.1 | progress bar |
 
 ### Procedure
-<img src="https://github.com/scyyy/National-image-based-on-Davos-news/blob/master/procedure.png" width="500"/>
+<img src="https://github.com/scyyy/NLP-national-image-analysis/blob/master/image/procedure.png" width="500"/>
 
 ### Code menu
 * Spider
