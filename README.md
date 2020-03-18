@@ -27,11 +27,11 @@ Model : [bertabs-finetuned-cnndm-extractive-abstractive-summarization](https://h
 ###  Module Versions
 | module | version | application |
 |  ----  | ----  | ---- |
-| Beautiful Soup | 4.6.3 | spider |
-| Selenium | 3.141.0 | spider |
+| beautifulsoup | 4.6.3 | spider |
+| selenium | 3.141.0 | spider |
 | xlrd | 1.1.0 | excel reading |
 | xlwt | 1.3.0 | excel writing |
-| NLTK | 3.4.5 | data cleaning |
+| nltk | 3.4.5 | data cleaning |
 | wordcloud | 1.5.0 | word cloud |
 | lda | 3.2.5 | LDA topic model |
 | transformers | 2.5.1 | summrization & sentiment score |
